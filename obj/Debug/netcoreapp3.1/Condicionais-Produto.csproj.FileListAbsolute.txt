@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Produto\bin\Debug\netcoreapp3.1\Condicionais-Produto.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Produto\bin\Debug\netcoreapp3.1\Condicionais-Produto.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Produto\bin\Debug\netcoreapp3.1\Condicionais-Produto.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Produto\bin\Debug\netcoreapp3.1\Condicionais-Produto.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Produto\bin\Debug\netcoreapp3.1\Condicionais-Produto.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Produto\bin\Debug\netcoreapp3.1\Condicionais-Produto.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Produto\obj\Debug\netcoreapp3.1\Condicionais-Produto.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Produto\obj\Debug\netcoreapp3.1\Condicionais-Produto.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Produto\obj\Debug\netcoreapp3.1\Condicionais-Produto.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Produto\obj\Debug\netcoreapp3.1\Condicionais-Produto.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Produto\obj\Debug\netcoreapp3.1\Condicionais-Produto.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Produto\obj\Debug\netcoreapp3.1\Condicionais-Produto.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Produto\obj\Debug\netcoreapp3.1\Condicionais-Produto.genruntimeconfig.cache
